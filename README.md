@@ -5,13 +5,13 @@
 
     Considere el siguiente problema:
 
-    Escriba un programa corto donde se tenga un array de enteros como par�metro de entrada y otro como resultado de salida.
+    Escriba un programa corto donde se tenga un array de enteros como parametro de entrada y otro como resultado de salida.
     Se necesita calcular las siguientes operaciones.
 
     Clasifica :
-    N�meros positivos.
-    N�meros negativos.
-    N�meros igual a 0.
+    Numeros positivos.
+    Numeros negativos.
+    Numeros igual a 0.
          
     Calcula el n�mero de elementos de cada clasificaci�n, dividido por el n�mero del array.
     Represente el n�mero de cada operaci�n con un redondeo de 4 decimales.
